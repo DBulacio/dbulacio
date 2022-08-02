@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DBulacio</title>
+</head>
+<body>
+    <a href="" data-toggle="modal" data-target="#campus">Campus Oxford College</a>
+    <a href="" data-toggle="modal" data-target="#inscripcion">Inscripción Oxford College</a>
+    <a href="" data-toggle="modal" data-target="#verbBrowser">Verb Browser App</a>
+    <a href="" data-toggle="modal" data-target="#psm">Preventive Solutions Web</a>
+    <a href="" data-toggle="modal" data-target="#libros">Libros</a>
+</body>
+
+<!-- CAMPUS -->
+<div class="modal" id="campus">
+    <h1>Sistema administrativo de Oxford College English Institute</h1>
+    <h2>PHP, JS, HTML, CSS, Bootstrap</h2>
+    <h3>Cada usuario del campus tiene un nivel y los niveles están organizados a modo de piramide invertida, es decir que cada nivel tiene más permisos que el anterior.</h3> 
+    <h4>Niveles y permisos:</h4>
+    <ul>
+        <li>
+            <h5>Alumno</h5>
+            <p>Tiene acceso a sus calificaciones y asistencias más información administrativa relevante al curso en el que está inscripto, descarga de boletines y oficina virtual (app terciarizada de pagos online).</p>
+        </li>
+        <li>
+            <h5>Profesor</h5>
+            <p>Puede cargar notas y asistencias de los alumnos de sus cursos asignados.</p>
+        </li>
+        <li>
+            <h5>Floating</h5>
+            <p>idem Profesor pero puede ver y modificar notas y asistencias de todos los cursos.</p>
+        </li>
+        <li>
+            <h5>Gestor</h5>
+            <p>idem Floating más acceso de edición al legajo, mail y telefono de los alumnos.</p>
+        </li>
+        <li>
+            <h5>Administrador</h5>
+            <p>Puede hacer todo tipo de reportes y modificaciones a las bases de datos, ingresar pagos, generar cuotas, modificar vacantes, gestionar bajas, etc.</p>
+        </li>
+        <li>
+            <h5>Super Administrador</h5>
+            <p>idem Administrador más reportes muy costosos como el reporte general de todos los alumnos que relaciona 4 bad distintas.</p>
+        </li>
+    </ul>
+    <p>Para ver más podes ingresar al <a href="https://campus.oxfordcollege.net">Campus</a> con el dni "11111111" y la contraseña alumno.prueba</p>
+</div>
+
+<!-- INSCRIPCION -->
+<div class="modal" id="inscripcion">
+    <h1>Sistema de Inscripción de Oxford College English Institute</h1>
+    <h2>PHP, JS, HTML, CSS, Bootstrap</h2>
+    <h3>Tras una precarga de datos en el Campus (o si es un alumno existente), los alumnos ingresan su dni y se les muestra los cursos y horarios disponibles para el nivel correspondiente, con la posibilidad de elegir lista de espera en caso de que no haya vacantes en el horario deseado.</h3>
+    <p>La mayor dificultad acá estuvo en las etapas. El instituto primero abré la inscripción para alumnos regulares, es decir, que hayan cursado en años anteriores, y luego para el resto de usuarios. También hubo casos excepcionales de alumnos que podían saltearse un curso si habían aprobado un examen con más de nueve. Y otros casos en los que dependiendo de la edad y sus notas en años anteriores, se les habilitaba o no la posibilidad de elegir entre modalidad virtual y presencial.</p>
+    <p>Luego de esquematizar mucho y varias idas y vueltas el sistema funcionó y agilizó muchisimo el trabajo en comparación a años anteriores.</p>
+    <p>Para ver más podes ingresar al <a href="https://inscripcion.oxfordcollege.net">Sistema de Inscripción</a></p>
+</div>
+
+</html>
+
