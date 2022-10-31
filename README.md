@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a portfolio landing page, with some of my profesional work + some hobbies!
+- 🌱 I’m currently learning C++ and looking to work as a programmer!
+- 🔭 I have 4 years of experience with PHP & MySQL but I want to do more than just web apps. I want to understand how code really works and get to the roots of every problem... We'll see what happens!
 <!--
 **DBulacio/dbulacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
