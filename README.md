@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning VueJS and looking to work as a programmer!
-- 🔭 I have 4 years of experience with PHP & MySQL and some experience working with JavaScript but I want to do more than just web apps. I want to understand how code really works and get to the roots of every problem... We'll see what happens!
+- 🌱 I’m currently learning React, Django and some C#!
+- 🔭 I have 4 years of experience with PHP, MySQL and JavaScript and 1 year of experience with VueJS. My goal is to understand how code really works and get to the roots of every problem... We'll see what happens!
 <!--
 **DBulacio/dbulacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
